@@ -76,7 +76,7 @@
    <tr>
       <th>14</th>
       <th>HOLGA HIDAYATULLAH</th>
-      <+62 858-3606-4544</th>
+      <th>+62 858-3606-4544</th>
 </tr>
    <tr>
       <th>15</th>
