@@ -31,7 +31,7 @@
    <tr>
       <th>5</th>
       <th>ANGGA DWI P</th>
-      <th>+62 
+       <th>+62 812-7522-4303</th>
 </tr>
    <tr>
       <th>6</th>
@@ -46,6 +46,7 @@
    <tr>
       <th>8</th>
       <th>DAVID BEKHAM</th>
+       <th>+62 823-8955-4498</th>
 </tr>
    <tr>
       <th>9</th>
