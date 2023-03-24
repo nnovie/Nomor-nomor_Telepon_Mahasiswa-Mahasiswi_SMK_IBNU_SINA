@@ -1,5 +1,5 @@
 # Nomor-nomor_Telepon_Mahasiswa-Mahasiswi_SMK_IBNU_SINA
-# nama-nama_mahasiswa-mahasiswi_Kelas_RPL_A
+
 <!DOCTYPE html>
 <html>
 <head>
