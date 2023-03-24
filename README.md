@@ -8,6 +8,12 @@
 </head>
 <body>
 <table border="1">
+        <tr style="background-color: limegreen;"
+<tr>
+  <th>No</th>
+  <th>Nama Siswa-Siswi</th>
+  <th>Nomor Telepon</th>
+  <th>Jenis Kelamin</th>
 <tr>
   <th>1</th>
   <th>ADITHYA</th>
