@@ -290,7 +290,7 @@
 <tr>
     <th>46</th>
     <th>Aldi</th>
-    <th>+62 805-3978-23482</th>
+    <th>+62 895-3978-23482</th>
     <th>Laki-laki</th>
 </tr>
 <tr>
