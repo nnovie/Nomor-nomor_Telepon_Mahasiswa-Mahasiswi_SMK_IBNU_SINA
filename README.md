@@ -233,5 +233,10 @@
  <th>+62 853-6454-5614</th>
  <th>Perempuan</th>
 </tr>
-    
+<tr>
+ <th>37</th>
+ <th>Wana Pli Yani</th>
+ <th>+62 895-3850-36326</th>
+ <th>Perempuan</th>
+</tr>
  </html>
