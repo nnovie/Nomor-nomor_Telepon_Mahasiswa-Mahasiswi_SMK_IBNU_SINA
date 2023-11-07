@@ -209,11 +209,17 @@
     <th>+62 896-4321-7397</th>
     <th>Perempuan<th>
     </tr>
+    <tr>
 <th>33</th>
 <th>Peri Yahya</th>
 <th>+62 818-8285-9597</th>
 <th>Laki-laki</th>
 </tr>
-
+<tr>
+ <th>34</th>
+ <th>Rizka Nur Fauziah</th>
+ <th>+62 812-6156-4297</th>
+ <th>Perempuan</th>
+</tr>
     
  </html>
