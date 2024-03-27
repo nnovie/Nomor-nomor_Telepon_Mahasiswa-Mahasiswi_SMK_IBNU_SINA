@@ -318,7 +318,7 @@
     <th>Laki-laki</th>
 </tr>
 <tr>
-    <rh>51</rh>
+    <th>51</th>
     <th>sofiani</th>
     <th>085765343335</th>
     <th>Perempuan</th>
